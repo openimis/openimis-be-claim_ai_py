@@ -24,10 +24,10 @@ setup(
         'django-db-signals',
         'djangorestframework',
         'joblib',
-        'scikit-learn==0.23.2',
+        'scikit-learn==1.6.1',
         'xgboost==1.3.3',
         'category_encoders',
-        'pandas==1.1.4',
+        'pandas==2.2.3',
         'pandarallel==1.5.5',
         'gevent==21.12.0'
     ],
