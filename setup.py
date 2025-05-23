@@ -20,7 +20,7 @@ setup(
     author='Damian Borowiecki',
     author_email='dborowiecki@soldevelo.com',
     install_requires=[
-        'django,
+        'django',
         'django-db-signals',
         'djangorestframework',
         'joblib',
